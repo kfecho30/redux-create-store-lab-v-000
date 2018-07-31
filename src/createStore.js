@@ -1,5 +1,8 @@
+let store, button;
+
 export default function createStore(reducer) {
-  let store, button
+  let state;
+  
 }
 
 function render() {
